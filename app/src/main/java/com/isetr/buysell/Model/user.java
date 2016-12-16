@@ -1,4 +1,4 @@
-package com.isetr.buysell.Controller.Model;
+package com.isetr.buysell.Model;
 
 /**
  * Created by mar on 15/12/2016.
